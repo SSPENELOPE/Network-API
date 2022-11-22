@@ -1,4 +1,4 @@
-const router = requier('express').Router();
+const router = require('express').Router();
 
 // Get functions from controllers
 const {
